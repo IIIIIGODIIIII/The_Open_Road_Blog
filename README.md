@@ -13,3 +13,19 @@ This project is a blog website built using Django. The application allows users 
 2. Bootstrap: Frontend framework for responsive design.
 3. SQLite: Default database for development.
 4. HTML/CSS: For structuring and styling the web pages.
+
+## Installation
+To get a local copy up and running, follow these simple steps:
+
+1. Clone the repository
+
+   ```bash
+   git clone https://github.com/IIIIIGODIIIII/The_Open_Road_Blog.git
+
+2. Navigate to the project directory
+
+   ```bash
+   cd The_Open_Road_Blog
+
+3.
+   
