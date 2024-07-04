@@ -27,5 +27,24 @@ To get a local copy up and running, follow these simple steps:
    ```bash
    cd The_Open_Road_Blog
 
-3.
+3. Apply migrations
+
+   ```bash
+   python manage.py migrate
+
+4. Run deployment server
+
+   ```bash
+   python manage.py runserver
+
+## Usage
+1. Create a superuser
+   ```bash
+   python manage.py createsuperuser
+   
+2. Access the admin panel
+   Visit http://127.0.0.1:8000/admin/ to manage the blog content.
+
+3. Navigate the website
+   Visit http://127.0.0.1:8000/ to explore the blog platform.
    
